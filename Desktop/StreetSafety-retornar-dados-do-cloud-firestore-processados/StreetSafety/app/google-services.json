@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297523976121",
+    "firebase_url": "https://streetsafety-68515.firebaseio.com",
+    "project_id": "streetsafety-68515",
+    "storage_bucket": "streetsafety-68515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297523976121:android:6ecc8b6a6e8aa7137e0868",
+        "android_client_info": {
+          "package_name": "com.example.streetsafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297523976121-le4b3fl4k4js6ot2hlr5aop7ce4vhoig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuXf9bH3bE-sruMwHocRsGATASCR7MJDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297523976121-le4b3fl4k4js6ot2hlr5aop7ce4vhoig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
