@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572354887 source:c:\users\leonardo\desktop\cod_projetos\lagrange_q1\main.c
+	<stdio.h>
+	<math.h>
+
+1573078596 source:c:\users\leonardo\desktop\cod_projetos\calculonumerico\lagrange_q1\main.c
+	<stdio.h>
+	<math.h>
+

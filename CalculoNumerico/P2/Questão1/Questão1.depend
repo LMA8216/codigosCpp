@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1575317561 source:c:\users\leonardo\desktop\cod_projetos\calculonumerico\regra_dos_trapezios\questão1\main.c
+	<stdio.h>
+	<math.h>
+
+1575492841 source:c:\users\leonardo\desktop\cod_projetos\calculonumerico\p2\questão1\main.c
+	<stdio.h>
+	<math.h>
+

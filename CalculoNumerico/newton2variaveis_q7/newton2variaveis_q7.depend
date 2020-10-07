@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572214676 source:c:\users\leonardo\desktop\cod_projetos\newton2variaveis_q7\main.c
+	<stdio.h>
+	<math.h>
+
+1572822697 source:c:\users\leonardo\desktop\cod_projetos\calculonumerico\newton2variaveis_q7\main.c
+	<stdio.h>
+	<math.h>
+

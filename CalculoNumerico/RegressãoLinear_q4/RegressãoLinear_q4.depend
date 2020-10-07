@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572282354 source:c:\users\leonardo\desktop\cod_projetos\regressãolinear_q4\main.c
+	<stdio.h>
+	<math.h>
+
+1572389906 source:c:\users\leonardo\desktop\cod_projetos\calculonumerico\regressãolinear_q4\main.c
+	<stdio.h>
+	<math.h>
+

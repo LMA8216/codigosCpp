@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572387618 source:c:\users\leonardo\desktop\cod_projetos\linearização_q3\main.c
+	<stdio.h>
+	<math.h>
+
+1573076438 source:c:\users\leonardo\desktop\cod_projetos\calculonumerico\linearização_q3\main.c
+	<stdio.h>
+	<math.h>
+

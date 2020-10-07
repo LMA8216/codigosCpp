@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572273506 source:c:\users\leonardo\desktop\cod_projetos\dicotomia_q9\main.c
+	<stdio.h>
+	<math.h>
+
+1572392361 source:c:\users\leonardo\desktop\cod_projetos\calculonumerico\dicotomia_q9\main.c
+	<stdio.h>
+	<math.h>
+

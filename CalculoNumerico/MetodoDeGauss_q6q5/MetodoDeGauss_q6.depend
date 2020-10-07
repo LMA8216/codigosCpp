@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572279243 source:c:\users\leonardo\desktop\cod_projetos\metododegauss_q6\main.c
+	<stdio.h>
+	<math.h>
+
+1572279243 source:c:\users\leonardo\desktop\cod_projetos\calculonumerico\metododegauss_q6\main.c
+	<stdio.h>
+	<math.h>
+
+1572279243 source:c:\users\leonardo\desktop\cod_projetos\calculonumerico\metododegauss_q6q5\main.c
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572207853 source:c:\users\leonardo\desktop\cod_projetos\newton_q7\main.c
+	<stdio.h>
+	<math.h>
+
+1572207853 source:c:\users\leonardo\desktop\cod_projetos\calculonumerico\newton_q7\main.c
+	<stdio.h>
+	<math.h>
+
+1572207853 source:c:\users\leonardo\desktop\cod_projetos\calculonumerico\newton_q8\main.c
+	<stdio.h>
+	<math.h>
+

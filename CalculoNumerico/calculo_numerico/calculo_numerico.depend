@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572203159 source:c:\users\leonardo\desktop\cod_projetos\calculo_numerico\dicotomia.c
+	<stdio.h>
+	<math.h>
+
+1572203192 source:c:\users\leonardo\desktop\cod_projetos\calculo_numerico\main.c
+	<stdio.h>
+	<math.h>
+

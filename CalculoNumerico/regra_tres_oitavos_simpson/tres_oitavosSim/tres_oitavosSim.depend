@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575324026 source:c:\users\leonardo\desktop\cod_projetos\calculonumerico\regra_um_terço_simpson\tres_oitavossim\main.c
+	<stdio.h>
+	<math.h>
+
